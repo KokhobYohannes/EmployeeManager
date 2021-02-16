@@ -12,8 +12,8 @@ Usage:
 2) Run "node server.js" to start the program.
 
 
-Screenshots:
-
+Screenshot:
+![alt text](Homework/Assets/employeemanager.png)
 
 Acknowledgements: 
 1) Employee Manager Text: https://fsymbols.com/generators/tarty/
