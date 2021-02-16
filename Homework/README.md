@@ -13,7 +13,7 @@ Usage:
 
 
 Screenshot:
-![alt text](Homework/Assets/employeemanager.png)
+![alt text](Assets/employeemanager.png)
 
 Acknowledgements: 
 1) Employee Manager Text: https://fsymbols.com/generators/tarty/
