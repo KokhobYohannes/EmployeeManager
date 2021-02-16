@@ -5,6 +5,7 @@ As a business owner, I want to be able to view and manage the departments, roles
 
 Links:
 https://github.com/KokhobYohannes/EmployeeManager 
+https://youtu.be/ysX6Q-CxzxI
 
 
 Usage:
