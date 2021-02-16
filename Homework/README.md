@@ -7,7 +7,7 @@ Links:https://github.com/KokhobYohannes/EmployeeManager
 
 Usage:
 1) Run npm i
-2) Run "node server.js" to start the program
+2) Run "node server.js" to start the program.
 
 
 Screenshots:
